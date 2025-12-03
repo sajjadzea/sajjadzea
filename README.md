@@ -1,6 +1,7 @@
-<!-- Drop banner image in /assets/banner-wave5.png -->
 <p align="center">
-  <img src="assets/banner-wave5-systems.png" alt="Wave-5 systems banner" width="100%" />
+  <img src="assets/banner-wave5-systems.png"
+       alt="Wave-5 Systems Banner"
+       style="width: 100%; max-height: 240px; object-fit: cover; border-radius: 4px;" />
 </p>
 
 <h1 align="center">Sajjad Zeraatkar</h1>
