@@ -1,6 +1,6 @@
 <!-- Drop banner image in /assets/banner-wave5.png -->
 <p align="center">
-  <img src=".assets/banner-wave5-systems.png" alt="Wave-5 systems banner" width="100%" />
+  <img src="assets/banner-wave5-systems.png" alt="Wave-5 systems banner" width="100%" />
 </p>
 
 <h1 align="center">Sajjad Zeraatkar</h1>
